@@ -16,7 +16,7 @@
 
 - The system is simple, responsive, and easy to use, showing how I think and work as a Web Developer Intern.
 
-
+<br>
 --_Features_--
 
 -> Add Inquiry: Enter Name, Contact (email/phone), and Source
@@ -33,7 +33,7 @@
 
 -> Modern UI: Soft colors, minimal design, clear and easy-to-read layout
 
-
+<br>
 --_Tech Stack_--
 
 Frontend: *React, Tailwind CSS, Axios*
@@ -42,7 +42,7 @@ Backend: *Node.js, Express*
 
 Database: *MongoDB (with Mongoose)*
 
-
+<br>
 --_Setup Instructions_--
 
 1. Clone the Repository
@@ -53,7 +53,7 @@ Database: *MongoDB (with Mongoose)*
 `cd backend`
 `npm install`
 
-2a. Create .env file in backend
+ 2a. Create .env file in backend
 `MONGO_URI=<your_mongodb_connection_string>`
 `PORT=5000`
 
@@ -73,7 +73,7 @@ Backend runs at: http://localhost:5000
 
 Frontend runs at: http://localhost:5173
 
-
+<br>
 --_Usage_--
 
 - *Open the frontend URL in your browser*
@@ -86,7 +86,7 @@ Frontend runs at: http://localhost:5173
 
 - *Filter inquiries by Source or Status to find specific entries*
 
-
+<br>
 --_Project Structure_--
 
 **frontend**
@@ -105,7 +105,7 @@ server.js → Express server
 .env → Environment variables
 package.json → Backend dependencies
 
-
+<br>
 --_Notes_--
 
 This is a small MVP built for internship evaluation
@@ -113,6 +113,7 @@ Focus is on clarity, usability, and responsive design
 MongoDB ensures data persists even after server restarts
 App demonstrates basic CRUD operations, status management, and filters
 
-
+<br>
 --Author--
+<br>
 **Jatin Nayal**
