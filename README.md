@@ -1,5 +1,6 @@
 **Kyrex Inquiry Management System (MVP)**
-_Overview_
+
+--_Overview_--
 
 - This is a full-stack web application built as an intern-level MVP for Kyrex.
 
@@ -15,7 +16,8 @@ _Overview_
 
 - The system is simple, responsive, and easy to use, showing how I think and work as a Web Developer Intern.
 
-_Features_
+
+--_Features_--
 
 -> Add Inquiry: Enter Name, Contact (email/phone), and Source
 
@@ -31,7 +33,8 @@ _Features_
 
 -> Modern UI: Soft colors, minimal design, clear and easy-to-read layout
 
-_Tech Stack_
+
+--_Tech Stack_--
 
 Frontend: *React, Tailwind CSS, Axios*
 
@@ -39,7 +42,8 @@ Backend: *Node.js, Express*
 
 Database: *MongoDB (with Mongoose)*
 
-_Setup Instructions_
+
+--_Setup Instructions_--
 
 1. Clone the Repository
 `git clone <YOUR_GITHUB_REPO_URL>`
@@ -69,7 +73,8 @@ Backend runs at: http://localhost:5000
 
 Frontend runs at: http://localhost:5173
 
-_Usage_
+
+--_Usage_--
 
 - *Open the frontend URL in your browser*
 
@@ -81,7 +86,8 @@ _Usage_
 
 - *Filter inquiries by Source or Status to find specific entries*
 
-_Project Structure_
+
+--_Project Structure_--
 
 **frontend**
 
@@ -99,12 +105,14 @@ server.js → Express server
 .env → Environment variables
 package.json → Backend dependencies
 
-_Notes_
+
+--_Notes_--
 
 This is a small MVP built for internship evaluation
 Focus is on clarity, usability, and responsive design
 MongoDB ensures data persists even after server restarts
 App demonstrates basic CRUD operations, status management, and filters
 
-Author
+
+--Author--
 **Jatin Nayal**
