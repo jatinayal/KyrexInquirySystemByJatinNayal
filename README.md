@@ -46,8 +46,8 @@ Database: *MongoDB (with Mongoose)*
 --Setup Instructions--
 
 1. Clone the Repository
-`git clone <YOUR_GITHUB_REPO_URL>`
-`cd <REPO_NAME>`
+`git clone https://github.com/jatinayal/KyrexInquirySystemByJatinNayal`
+`cd KyrexInquirySystemByJatinNayal`
 
 2. Backend Setup
 `cd backend`
